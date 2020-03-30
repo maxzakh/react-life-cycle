@@ -1,5 +1,5 @@
 {
-  "name": "components",
+  "name": "react-life-cycle",
   "version": "1.0.0",
   "description": "Simple application to show the lifecycle of React class and functional components.",
   "main": "index.js",
