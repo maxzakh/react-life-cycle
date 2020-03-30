@@ -1,0 +1,16 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "Simple application to show the lifecycle of React class and functional components.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./public/index.html --port 2000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
